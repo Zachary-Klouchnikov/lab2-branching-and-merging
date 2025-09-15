@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f217df40-c3c3-4eb9-ba59-ed4cd70a2763" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f217df40-c3c3-4eb9-ba59-ed4cd70a2763" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,12 +19,12 @@
     &quot;assignee&quot;: &quot;Zachary-Klouchnikov&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Zachary-Klouchnikov/lab2-branching-and-merging.git&quot;,
-    &quot;accountId&quot;: &quot;342fdc35-d56e-48ab-9d9a-756ae4f31340&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Zachary-Klouchnikov/lab2-branching-and-merging.git",
+    "accountId": "cfd9aa1f-0982-4cd1-b16f-b8745b33e550"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -51,7 +46,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "alice",
+    "git-widget-placeholder": "task__3",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -97,6 +92,7 @@
       <workItem from="1757943646595" duration="1843000" />
       <workItem from="1757945511601" duration="106000" />
       <workItem from="1757945639524" duration="704000" />
+      <workItem from="1757977563335" duration="364000" />
     </task>
     <servers />
   </component>
